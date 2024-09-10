@@ -4,7 +4,7 @@ Annotates pre-existing geometries in VIAME to include measurement data
 ## Models and Data
 This code was originally created to expedite annotation work for an AI project that requires the lengths, widths and aperture sizes of whelk shells to be measured. It reads the rectangular borders around various line measurements of each shell, and groups those that overlap and belong to the same individual. 
 
-# Use
+# Using the Annotator
 
 ## Prerequisites
 - R 4.0 or higher

@@ -1,4 +1,4 @@
-# VIAME-Annotation
+# VIAME-Annotator v1
 Annotates pre-existing geometries in VIAME to include measurement data
 
 This code was originally created to expedite annotation work for an AI project that requires the lengths, widths and aperture sizes of whelk shells to be measured. It reads the rectangular borders around the various line measurements of each shell, and deduces whether or not they overlap and belong to the same individual. 

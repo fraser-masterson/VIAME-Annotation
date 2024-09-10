@@ -2,6 +2,7 @@
 ## Original whelk annotation code for VIAME
 ## This is specific to the data we were using and will require editing before wider use
 ## Index column format: ID, total length, aperture size, width
+## Delete any pre-existing labels in VIAME before processing this code
 
 ## -------------------------------------------------------------------------------
 ## Author: Fraser Masterson; Wed Sep 4 13:41:22 2024

@@ -36,6 +36,7 @@ index$Whelk.number = paste("Whelk", index$Whelk.number, sep = "_")
 ```{r}
 write.csv(data, "OUTPUT-FILENAME.csv", row.names = FALSE)
 ```
+7. Set the 'group_id' object so that it is 1 below the first ID in your sample (e.g., our whelk IDs were 6-20, so 'group_id' was set to 5).
 8. Run the main code.
 9. Import the output .csv file back into VIAME, the annotations should now be grouped and labelled with respective measurements.
 
